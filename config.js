@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['34612538080']
-global.OwnerNumber = ['34612538080']
-global.ownertag = ['34612538080']
-global.BotName = "جرجير"
-global.packname = "ＢＫ９ 💙"
+global.Owner = ['966507374353']
+global.OwnerNumber = ['966507374353']
+global.ownertag = ['966507374353']
+global.BotName = "D BOT"
+global.packname = "D BOT"
 global.author = "bot"
-global.OwnerName = "jiraya"
+global.OwnerName = "D BOT"
 global.BotSourceCode = "https://chat.whatsapp.com/Ccu4raDkkKI3Ro2dUpqgCo"
 global.SupportGroupLink = "https://chat.whatsapp.com/KLPZQqWM8fs6UCwpYCRVNs"
 global.sessionName = "session"
