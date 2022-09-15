@@ -1362,22 +1362,15 @@ let buttonspro = [
 case 'قروباتي':
 if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
-reply(` يمكنك/ي الدخول لاي قروب يعجبك/ي
-
-*قروب البوت*
-https://chat.whatsapp.com/KLPZQqWM8fs6UCwpYCRVNs
-
-*قروب الانمي مون*
-https://chat.whatsapp.com/Ccu4raDkkKI3Ro2dUpqgCo
-
-*قروب الانمي ريڤن*
-https://chat.whatsapp.com/BFYbcZxeF2A2FmF3ijtNG3`)
+reply(` يمكنك/ي الدخول للاعلانات ننزل اخر اخبار البوت
+*قروب اعلانات للبوت والمتجر*
+https://chat.whatsapp.com/CyHf3EQLqeE5EKX7zsXkp0`)
 break
 
 
 case 'مساعدة':
     
-    reply(`*ادخل قروب البوت للمساعدة:* https://chat.whatsapp.com/KLPZQqWM8fs6UCwpYCRVNs`)
+    reply(`*ادخل قروب البوت للمساعدة:* https://chat.whatsapp.com/CyHf3EQLqeE5EKX7zsXkp0`)
     break
 
 case 'رياكشنات':
@@ -2233,7 +2226,7 @@ if (isBanChat) return reply(mess.bangc)
 case 'بنتر': {
     if (isBan) return reply(mess.banned)
     if (isBanChat) return reply(mess.bangc)
- if (!args.join(" ")) return reply("اكتب اسم")
+ if (!args.join(" ")) return reply("اكتب اسم بالانجليزي")
  try {
  hx.pinterest(args.join(" ")).then(async(res) => {
  imgnyee = res[Math.floor(Math.random() * res.length)]
