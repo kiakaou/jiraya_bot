@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['966507374353']
-global.OwnerNumber = ['966507374353']
-global.ownertag = ['966507374353']
+global.Owner = ['966550685236']
+global.OwnerNumber = ['966550685236']
+global.ownertag = ['966550685236']
 global.BotName = "D BOT"
 global.packname = "D BOT"
 global.author = "bot"
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "Night Moon"
+global.location = "𝑫 𝑩𝑶𝑻"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
